@@ -1,0 +1,11 @@
+﻿  prakmod4.cpp
+D:\(68,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\(278,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\(647,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\(648,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  9 of 32 functions (28.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  prak4.vcxproj -> D:\#KULIAH\SEMESTER 3\GRAFIKA KOMPUTER\UAS grafkom\uas\Release\prak4.exe

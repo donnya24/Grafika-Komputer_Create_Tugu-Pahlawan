@@ -1,0 +1,2 @@
+﻿  prakmod4.cpp
+freeglut.dll : fatal error LNK1107: invalid or corrupt file: cannot read at 0x2C0
